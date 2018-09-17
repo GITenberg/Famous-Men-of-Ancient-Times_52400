@@ -1,0 +1,34 @@
+_repo: Famous-Men-of-Ancient-Times_52400
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Goodrich, Samuel G. (Samuel Griswold)
+    aliases:
+    - Parley, Peter
+    - Goodrich, Samuel Griswold
+    - Goodrich, S. G. (Samuel Griswold)
+    birthdate: 1793
+    deathdate: 1860
+    gutenberg_agent_id: '4027'
+    url: http://www.gutenberg.org/2009/agents/4027
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Griswold_Goodrich
+description: ''
+gutenberg_issued: '2016-06-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52400'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Men -- Biography -- Juvenile literature'
+- !lcc 'CT'
+- !lcsh 'Biography -- Juvenile literature'
+- GITenberg
+tableOfContents: Mohammed -- Belisarius -- Attila -- Nero -- Seneca -- Virgil -- Cicero
+  -- Julius Cæsar -- Hannibal -- Alexander -- Aristotle -- Demosthenes -- Apelles
+  -- Diogenes -- Plato -- Socrates -- Alcibiades -- Democritus -- Pericles -- Aristides
+  -- Æsop -- Solon -- Lycurgus -- Homer -- Confucius.
+title: Famous Men of Ancient Times
+url: http://www.gutenberg.org/ebooks/52400
